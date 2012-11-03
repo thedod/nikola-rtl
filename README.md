@@ -11,9 +11,9 @@ Nicola-RTL is a bunch of themes (and auxilliary files) for the [Nikola](http://n
 ### Limitations
 
 So far I haven't thoroughly checked blog posts and galleries
-([The site I needed this for](http://majorityofone.co.il) only needed "stories").
+([the site I needed this for](http://majorityofone.co.il) only needed "stories").
 
-This would hopefilly change soon. Meanwhile, comments and pull requests are welcome, of course.
+This would hopefully change eventually. Meanwhile, comments and pull requests are welcome, of course :)
 
 ### Installtion
 
