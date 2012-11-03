@@ -1,0 +1,44 @@
+body {
+	margin-top: 50px;
+	direction:rtl;
+	font-size:18px;
+}
+
+#container {
+    margin: 50 auto;
+}
+#container p { text-align:justify }
+#container p.caption {
+	font-style:normal;
+	text-align:center;
+	margin:0 auto;
+}
+
+div.figure { margin: 0 23px }
+
+#contentcolumn {
+    max-width: 760px;
+}
+#q {
+    width: 150px;
+}
+
+.postbox {
+    border-bottom: 2px solid darkgrey; 
+    margin-bottom: 12px;
+}
+
+.footerbox {padding: 15px; text-align: center; margin-bottom: 15px;}
+
+#addthisbox {top: 180px; left:10px; direction:ltr}
+
+.social_share_privacy_area img { margin:0 0 6px }
+
+.align-center, div.figure.align-center,
+.align-center img, div.figure.align-center img {margin:4px auto !important}
+.align-right{margin-left:12px;float:right}
+.align-left{margin-right:12px;float:left}
+/* "readable"-theme-specific patches, but look nice on spacelab as well */
+ul.dropdown-menu .active a, ul.dropdown-menu .active a:hover, ul.dropdown-menu .active a:focus { color:#fff; }
+ul.dropdown-menu a:hover, ul.dropdown-menu a:focus { background:#ccc }
+.navbar .brand { font-size:30px; padding-top:10px } /* Trashy brand :) */
