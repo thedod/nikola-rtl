@@ -1,8 +1,8 @@
-Nicola-RTL is a bunch of themes (and auxilliary files) for the [Nikola](http://nikola.ralsina.com.ar/) static site geneator that are:
+Nicola-RTL is a bunch of themes for the [Nikola](http://nikola.ralsina.com.ar/) static site geneator that are:
 
 1. Right to left.
 1. Support dropdown menus.
-1. Fixes problems with caption alignment, etc. (but you *have* to enter `:width:` at `.. figure::` and `.. image::` directives. Sorry about that).
+1. Fix problems with caption alignment, etc. (although you *have* to enter `:width:` for all `.. figure::` and `.. image::` directives. Sorry about that).
 
 ### Demo
 
